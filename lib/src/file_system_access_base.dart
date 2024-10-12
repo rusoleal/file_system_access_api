@@ -1,5 +1,5 @@
 import 'dart:async';
-import 'dart:html';
+import "package:universal_html/html.dart";
 
 import 'package:file_system_access_api/src/api/file_system_handle.dart';
 import 'package:file_system_access_api/src/interop/interop_utils.dart';

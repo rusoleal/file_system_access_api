@@ -1,4 +1,5 @@
-import 'dart:html' as html show File, Blob;
+import "package:universal_html/html.dart" as html show File, Blob;
+//import 'dart:html' as html show File, Blob;
 import 'dart:typed_data';
 
 import 'package:file_system_access_api/src/api/errors.dart';
